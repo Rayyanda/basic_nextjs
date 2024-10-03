@@ -27,6 +27,17 @@
   }
 }
 
+.mynav{
+  background-color: burlywood;
+}
+
+.nav-button{
+  border-radius: 10px;
+}
+.nav-button:hover{
+  background-color: #383838;
+}
+
 .main {
   display: flex;
   flex-direction: column;
